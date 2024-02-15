@@ -3,7 +3,7 @@
 ### B.S. in Data Science Sep. 2021 - Present at VNU University of Science – VNU-HUS, Viet Nam.
 
 - 📫 How to reach me: minhanhminky@gmail.com
-- 📄 Know about my experiences [Résumé]()
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1Z8QC6NIwiKi9KcitB9a-ZwHMe7YjHEyC/view?usp=sharing)
 <!--
 **sunahiri25/sunahiri25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
